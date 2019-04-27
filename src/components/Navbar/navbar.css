@@ -16,12 +16,7 @@
     margin-bottom: 20px;
     width: 100%;
   }
-  
-  .navbar div:first-child {
-    letter-spacing: 1px;
-    font-weight: 900;
-  }
-  
+
   .pipe {
     margin: 0 10px;
   }
